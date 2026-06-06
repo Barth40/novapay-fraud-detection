@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Raw Data Files
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+
+# Processed Data
+data/processed/
+
 # Distribution / packaging
 .Python
 build/
