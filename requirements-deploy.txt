@@ -4,3 +4,11 @@ numpy
 scikit-learn==1.8.0
 joblib
 xgboost
+fastapi
+uvicorn
+pydantic
+fastapi
+uvicorn
+
+
+
